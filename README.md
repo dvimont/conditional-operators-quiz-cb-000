@@ -4,7 +4,7 @@
 
 1. Test your understanding of the ternary operator
 2. Understand when to use the ternary operator
-3. Understand that use of statement modifiers (trailing if and trailing unless statements)
+3. Understand the use of statement modifiers (trailing if and trailing unless statements)
 4. Understand the use of trailing unless statement 
 
 ???
